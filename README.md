@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Built with Streamlit, Pandas, and Plotly
 
 ## Contact
-For questions or feedback, please contact: [Include contact information if appropriate]
+For questions or feedback, please contact: jarnelsadnam@gmail.com
