@@ -64,7 +64,7 @@ This application provides interactive visualizations and analytical tools for ex
 
 1. Launch the Streamlit application:
    ```
-   streamlit run Earthquake-Time_Series_Analysis.py
+   streamlit run Home.py
    ```
 
 2. Navigate through the application:
